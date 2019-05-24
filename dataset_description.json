@@ -1,5 +1,5 @@
 {
-    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Acknowledgements": "We would like to thank to Christophe Lenglet for helping with in vivo dMRI processing and analysis; Agustin Lage-Castellanos for helping with fMRI analysis; and Michelle Moerel, Marta Bianciardi, Jean Augustinack and George Paxinos for giving anatomical advice at various stages.",
     "Authors": [
         "Kevin R. Sitek",
         "O. Faruk Gulban",
@@ -11,7 +11,7 @@
         "Federico De Martino"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "10.18112/openneuro.ds001942.v1.0.0",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
         "Data collected by F.D.M. and O.F.G. under NWO VIDI grant 864-13-012"
     ],
