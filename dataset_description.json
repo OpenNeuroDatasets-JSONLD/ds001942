@@ -1,5 +1,5 @@
 {
-    "Acknowledgements": "We would like to thank to Christophe Lenglet for helping with in vivo dMRI processing and analysis; Agustin Lage-Castellanos for helping with fMRI analysis; and Michelle Moerel, Marta Bianciardi, Jean Augustinack and George Paxinos for giving anatomical advice at various stages.",
+    "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
         "Kevin R. Sitek",
         "O. Faruk Gulban",
@@ -19,6 +19,7 @@
     "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
     "Name": "Auditory localization with 7T fMRI",
     "ReferencesAndLinks": [
-        "code and description available at https://github.com/sitek/subcortical-auditory-atlas"
+        "code and description available at https://github.com/sitek/subcortical-auditory-atlas",
+        "processed data and derivates available at https://osf.io/hxekn/"
     ]
 }
