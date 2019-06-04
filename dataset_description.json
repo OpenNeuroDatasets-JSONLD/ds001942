@@ -1,5 +1,5 @@
 {
-    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Acknowledgements": "Omer Faruk Gulban and Federico De Martino were supported by NWO VIDI grant 864-13-012.",
     "Authors": [
         "Kevin R. Sitek",
         "O. Faruk Gulban",
@@ -19,7 +19,6 @@
     "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
     "Name": "Auditory localization with 7T fMRI",
     "ReferencesAndLinks": [
-        "code and description available at https://github.com/sitek/subcortical-auditory-atlas",
-        "processed data and derivates available at https://osf.io/hxekn/"
+        "code and description available at https://github.com/sitek/subcortical-auditory-atlas"
     ]
 }
