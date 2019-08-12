@@ -1,13 +1,10 @@
 {
     "Acknowledgements": "We would like to thank to Christophe Lenglet for helping with setting up diffusion MRI protocols.",
     "Authors": [
+        "Omer Faruk Gulban",
         "Kevin R. Sitek",
-        "O. Faruk Gulban",
-        "Evan Calabrese",
-        "G. Allan Johnson",
-        "Agustin Lage-Castellanos",
-        "Michelle Moerel",
         "Satrajit S. Ghosh",
+        "Michelle Moerel",
         "Federico De Martino"
     ],
     "BIDSVersion": "1.0.1",
