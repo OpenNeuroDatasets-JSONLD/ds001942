@@ -19,6 +19,7 @@
     "License": "CC0",
     "Name": "Auditory localization with 7T fMRI",
     "ReferencesAndLinks": [
-        "code and description available at https://github.com/sitek/subcortical-auditory-atlas"
+        "See https://github.com/sitek/subcortical-auditory-atlas for analysis details and code.",
+        "See https://osf.io/hxekn/ for derived images and videos."
     ]
 }
