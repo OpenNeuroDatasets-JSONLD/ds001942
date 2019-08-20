@@ -10,7 +10,8 @@
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "10.18112/openneuro.ds001942.v1.1.0",
     "Funding": [
-        "Data collected by Omer Faruk Gulban and Federico De Martino under NWO VIDI grant 864-13-012. "
+        "Data collected by Omer Faruk Gulban and Federico De Martino under NWO VIDI grant 864-13-012. ",
+        "Data also collected by Michelle Moerel under NWO VENI grant 451-15-012."
     ],
     "HowToAcknowledge": "Please cite as Sitek & Gulban, et al. (2019): https://elifesciences.org/articles/48932",
     "License": "CC0",
